@@ -1,1 +1,1 @@
-Para acessar o site constuído neste repositório acesse o link https://adceduardo.github.io/landingpage/
+Para acessar o site construído neste repositório acesse o link https://adceduardo.github.io/landingpage/
